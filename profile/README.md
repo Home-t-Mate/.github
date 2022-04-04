@@ -1,9 +1,23 @@
 # 홈트메이트 - WebRTC 화상 홈트레이닝 플랫폼
+<img src=
+"https://img.shields.io/badge/-ffffff?style=flat-square&logo=zabbix&logoColor=ffffff"
+/>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/95996891/161489961-39b8d3e9-e81d-4cf0-9e9b-c70fecbdead2.png" width="500px" height="300px"/>
-  <h3>사이트 : https://hometmate.com</h3>
-</div>
+# <img src="https://user-images.githubusercontent.com/95996891/161489961-39b8d3e9-e81d-4cf0-9e9b-c70fecbdead2.png" align=left width=400 > 홈트메이트
+</img>   
+홈트메이트는 WebRTC 기술을 활용한 화상 서비스와 WebSocket을 활용한 실시간 유튜브 공유 서비스를 제공합니다.
+또한, Story 기능을 통해 유저들과 다양한 지식을 공유할 수 있으며, 스케쥴러 기능을 통해 규칙적인 운동을 가능하게 합니다.
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+ 
+    
+#### 홈트메이트에서 친구들과 실시간 홈트레이닝을 해보세요!
+
+#### 도메인:  [홈트메이트](https://hometmate.com/)  
+
+<img src=
+"https://img.shields.io/badge/-ffffff?style=flat-square&logo=zabbix&logoColor=ffffff"
+/>
+
 
 ## :triangular_flag_on_post: 프로젝트 기간
 
@@ -55,6 +69,8 @@ Story 기능을 통한 유저들간의 식단 및 운동을 공유해 보세요!
 #### :boom: DevOps
 
 <img src="https://img.shields.io/badge/AWS EC2(Ubuntu20.04)-262577?style=flat-square&logo=AWS EC2&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat-square&logo=AWS S3&logoColor=white"/> <img src="https://img.shields.io/badge/AWS Amplify-FF9900?style=flat-square&logo=AWS Amplify&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zabbix-CC0000?style=flat-square&logo=Zabbix&logoColor=white"/>
 
 
 ### 📌API 명세서
