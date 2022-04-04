@@ -7,7 +7,7 @@
 
 ## :triangular_flag_on_post: 프로젝트 기간
 
-> 2022년 3월 03일 ~ 2022년 2월 31일 (4주)
+> 2022년 2월 28일 ~ 2022년 3월 28일 (4주)
 
 ## :triangular_flag_on_post: 프로젝트 소개
 
