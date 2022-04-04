@@ -1,6 +1,13 @@
 # 홈트메이트 - WebRTC 화상 홈트레이닝 플랫폼
 
-![image](https://user-images.githubusercontent.com/95996891/161489961-39b8d3e9-e81d-4cf0-9e9b-c70fecbdead2.png)
+<div align="center">
+<img src="https://user-images.githubusercontent.com/95996891/161489961-39b8d3e9-e81d-4cf0-9e9b-c70fecbdead2.png" width="500px" height="300px"/>
+  <h3>사이트 : https://hometmate.com</h3>
+</div>
+
+<div>
+</div>
+
 
 ## :triangular_flag_on_post: 프로젝트 기간
 
@@ -51,7 +58,7 @@ Story 기능을 통한 유저들간의 식단 및 운동을 공유해 보세요!
 
 #### :boom: DevOps
 
-<img src="https://img.shields.io/badge/AWS EC2(Centos7)-262577?style=flat-square&logo=AWS EC2&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat-square&logo=AWS S3&logoColor=white"/> <img src="https://img.shields.io/badge/AWS Amplify-FF9900?style=flat-square&logo=AWS Amplify&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS EC2(Ubuntu20.04)-262577?style=flat-square&logo=AWS EC2&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat-square&logo=AWS S3&logoColor=white"/> <img src="https://img.shields.io/badge/AWS Amplify-FF9900?style=flat-square&logo=AWS Amplify&logoColor=white"/>
 
 ##
 
