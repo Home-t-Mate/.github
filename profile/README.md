@@ -5,10 +5,6 @@
   <h3>사이트 : https://hometmate.com</h3>
 </div>
 
-<div>
-</div>
-
-
 ## :triangular_flag_on_post: 프로젝트 기간
 
 > 2022년 3월 03일 ~ 2022년 2월 31일 (4주)
@@ -60,22 +56,26 @@ Story 기능을 통한 유저들간의 식단 및 운동을 공유해 보세요!
 
 <img src="https://img.shields.io/badge/AWS EC2(Ubuntu20.04)-262577?style=flat-square&logo=AWS EC2&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat-square&logo=AWS S3&logoColor=white"/> <img src="https://img.shields.io/badge/AWS Amplify-FF9900?style=flat-square&logo=AWS Amplify&logoColor=white"/>
 
-##
 
+### 📌API 명세서
 <details>
 <summary>API 명세서</summary>
 <div markdown="1">
-
+  <img src="https://user-images.githubusercontent.com/68932301/161514907-23c3be06-7574-46e7-a4e9-ef9aeee8ba6f.png" />
+    <img src="https://user-images.githubusercontent.com/68932301/161514990-c8f7f3ef-91cf-40c1-a107-e62c4f334807.png" />
+   <img src="https://user-images.githubusercontent.com/68932301/161515071-270df512-3aeb-41df-b0dd-11c630ffe505.png" />
+  <img src="https://user-images.githubusercontent.com/68932301/161515141-7ec2d035-bd9c-47ce-a138-dbfadad676e2.png" />
 </div>
 </details>
-  
-##
+
+### 📌ERD
 <details>
 <summary>ERD</summary>
 <div markdown="1">
-
+<img src="https://user-images.githubusercontent.com/68932301/161515957-235289e3-c32b-4b18-a5d0-aa5dc0229f4c.png" />
 </div>
 </details>
+
 
 ## :triangular_flag_on_post: UI
 
