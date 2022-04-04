@@ -1,14 +1,20 @@
 # 홈트메이트 - WebRTC 화상 홈트레이닝 플랫폼
 
-2022년 3월 03일 ~ 2022년 2월 31일 (4주)
+![image](https://user-images.githubusercontent.com/95996891/161489961-39b8d3e9-e81d-4cf0-9e9b-c70fecbdead2.png)
 
-## 프로젝트 소개
+## :triangular_flag_on_post: 프로젝트 기간
 
-WebRTC 를 이용한 화상 홈트레이닝 플랫폼
-WebSocket을 이용한 채팅 및 유튜브 실시간 공유 & 재생
-Story 기능을 통한 유저들간의 식단 및 운동 공유
+> 2022년 3월 03일 ~ 2022년 2월 31일 (4주)
 
-## 팀원소개
+## :triangular_flag_on_post: 프로젝트 소개
+
+WebRTC 를 이용한 화상 홈트레이닝 플랫폼입니다!!
+
+WebSocket을 이용한 채팅 및 유튜브 실시간 공유 & 재생이 가능합니다!  
+Story 기능을 통한 유저들간의 식단 및 운동을 공유해 보세요!  
+스케쥴러 기능을 활용해 운동스케쥴을 계획해 보세요!
+
+## :triangular_flag_on_post: 팀원소개
 
 #### Frontend
 
@@ -21,42 +27,50 @@ Story 기능을 통한 유저들간의 식단 및 운동 공유
 - 이강욱
 - 김예은
 
-## 기술 스택 및 개발 환경
+## :triangular_flag_on_post: 기술 스택 및 개발 환경
 
 ![image](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb74PLC%2Fbtryf0zLIef%2FdhNt518kvpmq3LURs0AYk0%2Fimg.png)
 
-#### Front-end
+### :hammer_and_wrench: 기술 스택
 
-- React
-- Redux (actions, thunk, immer)
-- Axios
-- styled-components
-- MUI
-- OpenVidu
-- SockJS Client
-- StopJS Client
-- AWS Amplify
+#### :boom: Frontend
 
-#### Back-end
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Redux(actions, thunk, immer)-764ABC?style=flat-square&logo=Redux&logoColor=white"/> <img src="https://img.shields.io/badge/Axios-56347C?style=flat-square&logo=Axios&logoColor=white"/>
 
-- Java 8
-- Spring Boot
-- Spring Security
-- MySQL
-- NGINX
-- Redis
-- OpenVidu
-- AWS EC2
-- AWS S3
+<img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/> <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=MUI&logoColor=white"/> <img src="https://img.shields.io/badge/OpenVidu-73BA25?style=flat-square&logo=OpenVidu&logoColor=white"/>
 
-#### DevOps
+<img src="https://img.shields.io/badge/SockJS-010101?style=flat-square&logo=SockJS&logoColor=white"/> <img src="https://img.shields.io/badge/StompJS-010101?style=flat-square&logo=StompJS&logoColor=white"/> <img src="https://img.shields.io/badge/AWS Amplify-FF9900?style=flat-square&logo=AWS Amplify&logoColor=white"/>
 
-- AWS EC2 (Centos7)
-- AWS RDS (MySQL 8.0)
-- AWS S3
-- AWS Amplify
+#### :boom: Back-end
 
-## UI
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/OpenVidu-73BA25?style=flat-square&logo=OpenVidu&logoColor=white"/> <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=AWS EC2&logoColor=white"/> <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat-square&logo=AWS S3&logoColor=white"/>
+
+#### :boom: DevOps
+
+<img src="https://img.shields.io/badge/AWS EC2(Centos7)-262577?style=flat-square&logo=AWS EC2&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat-square&logo=AWS S3&logoColor=white"/> <img src="https://img.shields.io/badge/AWS Amplify-FF9900?style=flat-square&logo=AWS Amplify&logoColor=white"/>
+
+##
+
+<details>
+<summary>API 명세서</summary>
+<div markdown="1">
+
+</div>
+</details>
+  
+##
+<details>
+<summary>ERD</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+## :triangular_flag_on_post: UI
 
 #### 메인화면
 
