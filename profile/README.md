@@ -42,10 +42,9 @@ Story 기능을 통한 유저들간의 식단 및 운동을 공유해 보세요!
 |김예은|https://github.com/ours12|BE / Spring|
 
 
-
 ## :triangular_flag_on_post: 기술 스택 및 개발 환경
 
-![image](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb74PLC%2Fbtryf0zLIef%2FdhNt518kvpmq3LURs0AYk0%2Fimg.png)
+![image](https://user-images.githubusercontent.com/68932301/162248252-48c5b59f-6b98-41f7-afd4-d3ed451066c1.png)
 
 ### :hammer_and_wrench: 기술 스택
 
