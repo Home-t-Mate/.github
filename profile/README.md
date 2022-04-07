@@ -33,16 +33,15 @@ Story 기능을 통한 유저들간의 식단 및 운동을 공유해 보세요!
 
 ## :triangular_flag_on_post: 팀원소개
 
-#### Frontend
+|Name|GitHub / Contact|Position|
+|------|---|---|
+|이주석L |https://github.com/act99|FE / React|
+|최예진|https://github.com/YJ-my|FE / React|
+|황건욱VL |https://github.com/hgu5141|BE / Spring|
+|이강욱|https://github.com/Kanguk1|BE / Spring|
+|김예은|https://github.com/ours12|BE / Spring|
 
-- F/E L 이주석
-- 최예진
 
-#### Backend
-
-- B/E L 황건욱
-- 이강욱
-- 김예은
 
 ## :triangular_flag_on_post: 기술 스택 및 개발 환경
 
